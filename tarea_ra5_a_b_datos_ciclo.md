@@ -40,6 +40,15 @@
 
 ## 8) Diagrama
 
+```mermaid
+graph TD
+A[Usuario] --> B[App de streaming]
+B --> C[Base de datos]
+C --> D[Procesamiento de datos]
+D --> E[Análisis]
+E --> F[Información]
+F --> G[Decisiones: recomendaciones]
+
 ## 9) Problemas
 - Problema 1: Datos incorrectos o incompletos
 - Solución 1: Implementar validaciones automáticas en la entrada de datos, sistemas de detección de errores y procesos de limpieza periódicos para asegurar que la información utilizada sea fiable y consistente.
