@@ -20,19 +20,23 @@
 - Los datos son hechos sin procesar, mientras que la información es el resultado de analizarlos y darles significado útil
 
 ## 5) Ciclo del dato
-- Captura:
-- Almacenamiento:
-- Procesamiento:
-- Análisis:
-- Uso:
-- Eliminación:
+- Captura: Reproducciones, búsquedas y likes del usuario
+- Almacenamiento: Base de datos en la nube
+- Procesamiento: Limpieza y organización de datos
+- Análisis: Detección de patrones de escucha
+- Uso: Recomendaciones y playlists personalizadas
+- Eliminación: Borrado de datos antiguos o inactivos
 
 ## 6) Aplicación
-- Decisiones:
-- Valor:
+- Decisiones: Qué canciones promocionar y qué recomendar
+- Valor: Mejora la experiencia del usuario y aumenta la retención
 
 ## 7) Tabla
 | Dato | Información |
+|------|-------------|
+| Reproducción de una canción | Canción más escuchada |
+| Búsqueda de artista | Interés del usuario en ese artista |
+| Like en canción | Preferencia musical del usuario |
 
 ## 8) Diagrama
 
