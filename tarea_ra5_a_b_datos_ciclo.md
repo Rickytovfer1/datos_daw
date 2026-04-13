@@ -41,10 +41,11 @@
 ## 8) Diagrama
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Datos incorrectos o incompletos
+- Solución 1: Implementar validaciones automáticas en la entrada de datos, sistemas de detección de errores y procesos de limpieza periódicos para asegurar que la información utilizada sea fiable y consistente.
+
+- Problema 2: Privacidad de los usuarios
+- Solución 2: Aplicar técnicas de anonimización de datos, cifrado de información sensible y cumplimiento estricto del RGPD, asegurando que los datos personales se almacenen y procesen de forma segura y solo para fines autorizados.
 
 ## 10) Fuente
-- Enlace:
+- Enlace: https://www.oracle.com/big-data/what-is-data/
