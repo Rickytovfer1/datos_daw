@@ -43,9 +43,15 @@
 - Decisión: Recomendar películas o series personalizadas en la pantalla principal del usuario.
   
 ## 7) Tabla
-| Concepto | Función |
+| Concepto   | Función                                                                 |
+|------------|-------------------------------------------------------------------------|
+| Big Data   | Recoger y almacenar grandes volúmenes de datos generados por usuarios   |
+| Análisis   | Procesar e interpretar los datos para encontrar patrones                |
+| ML/DL      | Aprender automáticamente de los datos para hacer predicciones           |
+| IA         | Tomar decisiones inteligentes basadas en los modelos creados            |
 
 ## 8) Diagrama
+Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión
 
 ## 9) Problemas
 - Problema 1:
