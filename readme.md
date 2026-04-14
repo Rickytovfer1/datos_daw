@@ -54,10 +54,11 @@
 Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Datos incorrectos o incompletos que pueden afectar la calidad de las recomendaciones.
+- Solución 1: Aplicar procesos de limpieza y validación de datos antes del análisis.
+
+- Problema 2: Sesgo en los datos (por ejemplo, recomendar siempre el mismo tipo de contenido).
+- Solución 2: Usar algoritmos que equilibren recomendaciones y fomenten la diversidad de contenido.
 
 ## 10) Fuente
-- Enlace:
+- Enlace: https://cloud.google.com/learn/what-is-big-data
