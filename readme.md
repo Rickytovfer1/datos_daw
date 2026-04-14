@@ -15,24 +15,33 @@
 - IA: Conjunto de tecnologías que permiten a las máquinas simular inteligencia humana, como aprender, razonar y tomar decisiones.
 
 ## 3) Relación
--
+- Los datos generados por los usuarios son recopilados y almacenados.
+- Estos datos se procesan mediante técnicas de análisis de datos para encontrar patrones.
+- A partir de ese análisis, se entrenan modelos de Machine Learning y Deep Learning.
+- Estos modelos forman parte de sistemas de Inteligencia Artificial.
+- Finalmente, la IA utiliza esos modelos para tomar decisiones, como recomendar contenido personalizado al usuario.
 
 ## 4) Pipeline
--
+- Datos masivos: Información generada por los usuarios.
+- Procesamiento: Limpieza y organización de los datos.
+- Análisis: Identificación de patrones de comportamiento.
+- Modelo ML/DL: Algoritmos que aprenden preferencias del usuario.
+- IA: Sistema que integra los modelos y genera recomendaciones.
+- Decisión: Mostrar películas y series personalizadas en la plataforma.
 
 ## 5) 5V del Big Data
-- Volumen:
-- Velocidad:
-- Variedad:
-- Veracidad:
-- Valor:
+- Volumen: Netflix maneja millones de datos de usuarios en todo el mundo.
+- Velocidad: Los datos se generan en tiempo real mientras los usuarios interactúan con la plataforma.
+- Variedad: Datos de diferentes tipos.
+- Veracidad: Se deben filtrar datos incorrectos o incompletos para asegurar calidad.
+- Valor: Permite mejorar la experiencia del usuario y aumentar el tiempo de uso de la plataforma.
 
 ## 6) Ejemplo aplicado
-- Datos:
-- Análisis:
-- Modelo:
-- Decisión:
-
+- Datos: Historial de visualización, búsquedas, tiempo viendo contenido, preferencias del usuario.
+- Análisis: Se detectan patrones como géneros favoritos o hábitos de consumo.
+- Modelo: Algoritmos de recomendación basados en Machine Learning.
+- Decisión: Recomendar películas o series personalizadas en la pantalla principal del usuario.
+  
 ## 7) Tabla
 | Concepto | Función |
 
